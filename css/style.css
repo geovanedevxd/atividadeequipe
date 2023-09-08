@@ -3,8 +3,8 @@ ul {
     max-width: 100%;
     border-radius: 10px;
     background: #b07d7d;
-
     align-items: center;
+
 }
 ul {
     display: flex;
@@ -27,8 +27,8 @@ ul li img {
 ul li {
     background-color: #990000;
     max-height: 100%;
-
 }
+
 .fundo-video {
     position: absolute;
     z-index: -1;
@@ -37,4 +37,7 @@ ul li {
     overflow: hidden;
     display: flex;
     justify-content: center;
+} 
+.p1 {
+    background-color: #990000;
 }
