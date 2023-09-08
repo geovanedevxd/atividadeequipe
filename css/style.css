@@ -1,0 +1,40 @@
+ul {
+
+    max-width: 100%;
+    border-radius: 10px;
+    background: #b07d7d;
+
+    align-items: center;
+}
+ul {
+    display: flex;
+}
+
+img {
+    border-radius: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    transition: 0.5s all ease-in-out;
+}
+img:hover {
+    transform: scale(1.1);
+}
+
+ul li img {
+    max-width: 100%;
+}
+
+ul li {
+    background-color: #990000;
+    max-height: 100%;
+
+}
+.fundo-video {
+    position: absolute;
+    z-index: -1;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
