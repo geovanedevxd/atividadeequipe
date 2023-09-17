@@ -36,34 +36,31 @@ ul {
     list-style: none;
     margin-top: 20px;
 }
-.p1 {
-    background-color: #b07d7d;
-}
 .mj {
     font-size: 25px;
-    color: #FCFDF7;
+    color: #2F54FF;
 }
 .titmj {
-    color: #FCFDF7;
+    color: #2F54FF;
 }
 .jog1 img {
     width: 600px;
 }
 .jog2 {
-    color: #FCFDF7;
+    color: #2F54FF;
     font-size: 30px;
 }
 .jog3 {
-    color: #FCFDF7;
+    color: #2F54FF;
     font-size: 25px;
     list-style: none;   
 }
 .jog4 {
-    color: #FCFDF7;
+    color: #2F54FF;
     font-size: 30px;
 }
 .jog5 {
-    color: #FCFDF7;
+    color: #2F54FF;
     font-size: 25px;
 }
 
